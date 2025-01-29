@@ -1,4 +1,4 @@
-# DANIEL_CROWLEY_3106809_ASSIGNMENT3
+# EMERALD_CROWLEY_3106809_ASSIGNMENT3
 
 
 This program will multiply two matrices together using the stripe method of matrix multiplication. 
