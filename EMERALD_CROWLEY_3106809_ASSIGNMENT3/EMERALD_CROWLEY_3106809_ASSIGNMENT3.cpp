@@ -1,5 +1,5 @@
 /*
-Author: Daniel Crowley
+Author: Emerald Crowley
 Date: Began 26/11/2022, Finished 16/12/2022
 Class: Distributed Systems
 
